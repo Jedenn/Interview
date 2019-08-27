@@ -1,0 +1,9 @@
+{
+  "title": "面试备战120天",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "# 目标：字节跳动\n# 岗位：大数据开发岗\n# 时间：120天\n# 计划：每天学习4-5小时\n\n#备战内容\n## 1. 编程语言\n* Java：多线程、JVM、IO、容器类\n* Scala：函数式编程，大数据必备\n* Go：字节跳动内部使用该语言\n\n## 2. 大数据框架\n* Hadoop: HDFS/Yarn/MapReduce\n* Spark: 批处理、流处理SparkStream\n* Hive: \n* Kafka:\n* Flume:\n* Hbase:\n* Zookeeper:\n* Redis: \n* ...\n\n## 3. 内功\n* 数据结构与算法\n* 数据挖掘算法\n* 数据库及其各种优化"
+    }
+  ]
+}
